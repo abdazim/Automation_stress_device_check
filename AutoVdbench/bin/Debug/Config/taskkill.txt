@@ -1,0 +1,11 @@
+Date Time: 12/19/2022 1:19:56 PM , Ip: 10.0.59.169
+taskkill Function
+_____________________________________________
+Microsoft Windows [Version 10.0.19045.2364]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AutoVdbench\AutoVdbench\bin\Debug>taskkill /s 10.0.59.169 /u qa /p 12 /IM cmd.exe /F 
+
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AutoVdbench\AutoVdbench\bin\Debug>taskkill /IM cmd.exe /F 
+SUCCESS: The process "cmd.exe" with PID 13252 has been terminated.
+
